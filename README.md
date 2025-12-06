@@ -25,5 +25,3 @@ streamlit
 plotly
 
 
-## Contributors
-
