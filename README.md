@@ -13,30 +13,6 @@ The goal is to explore the data, perform preprocessing, and build regression mod
 
 ---
 
-## Project Structure
-
-project/
-│
-├── data/
-│ ├── raw/
-│ │ └── dataset.xlsx # Contains all 6 sheets
-│ │
-│ └── processed/
-│ └── final_dataset.csv # Will be created after preprocessing
-│
-├── notebooks/
-│ └── project.ipynb # Main notebook for EDA, models, bootstrapping
-│
-├── src/ # Additional helper scripts 
-│
-├── dashboard/
-│ └── app.py # Streamlit or Gradio dashboard (later)
-│
-├── workflow-diagram/
-│ └── workflow.png # Project pipeline diagram
-│
-└── README.md # Project documentation
-
 ##  Requirements
 Install these packages:
 
@@ -48,10 +24,6 @@ seaborn
 streamlit
 plotly
 
-##  Notes
-- Excel dataset contains six sheets, each representing a different section.
-- No data leakage is allowed in preprocessing or modeling.
-- Final processed dataset must be saved as a CSV file.
 
 ## Contributors
 
