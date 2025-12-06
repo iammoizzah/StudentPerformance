@@ -1,0 +1,10 @@
+RQ,Model,MAE,RMSE,R2
+RQ1 (Mid1),Simple Linear,2.687,3.4919,-0.2583
+RQ1 (Mid1),Multiple Linear,2.2905,3.3868,-0.1837
+RQ1 (Mid1),Dummy,2.6672,3.3954,-0.1897
+RQ3 (Final),Simple Linear,5.4912,6.9353,0.489
+RQ3 (Final),Multiple Linear,3.8154,5.1216,0.7213
+RQ3 (Final),Dummy,8.1485,10.0911,-0.0817
+RQ2 (Mid2),Simple Linear,1.9784,2.3163,0.6174
+RQ2 (Mid2),Multiple Linear,1.9448,2.3638,0.6015
+RQ2 (Mid2),Dummy,3.0819,3.832,-0.0472
